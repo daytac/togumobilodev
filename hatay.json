@@ -1,4 +1,4 @@
- { "hatay" : [
+ [
   { 
  "isim" : "Harbiye Şelaleleri",
   "aciklama": "Bol su. Serin ve ferah. Yaz sıcağı için birebir",
@@ -14,4 +14,4 @@
   "aciklama": "Dünyanın en uzun sahillerinden birisi.",
   "fotourl": "https://raw.githubusercontent.com/daytac/togumobilodev/main/dunyanin-en-uzun-10-kumsali.jpg"
   } 
- ]}
+ ]
