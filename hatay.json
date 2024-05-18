@@ -1,17 +1,17 @@
  { "hatay" : [
   { 
- "isim" :"Harbiye Şelaleleri",
-  "aciklama":"Bol su. Serin ve ferah. Yaz sıcağı için birebir",
+ "isim" : "Harbiye Şelaleleri",
+  "aciklama": "Bol su. Serin ve ferah. Yaz sıcağı için birebir",
   "fotourl":"https://raw.githubusercontent.com/daytac/togumobilodev/main/874d3218c779364c3dcc95b832bc6823.jpg"
   },
   {
-  "isim":"Musa Ağacı",
-  "aciklama":"3 bin yıllık bir ağaç.",
-  "fotourl":"https://raw.githubusercontent.com/daytac/togumobilodev/main/3-bin-yillik-musa-agaci-pandemide-sessizlige-burun-1621779329219.jpg"
+  "isim": "Musa Ağacı",
+  "aciklama": "3 bin yıllık bir ağaç.",
+  "fotourl": "https://raw.githubusercontent.com/daytac/togumobilodev/main/3-bin-yillik-musa-agaci-pandemide-sessizlige-burun-1621779329219.jpg"
   },
   {
-  "isim":"Samandağ Sahil",
-  "aciklama":"Dünyanın en uzun sahillerinden birisi.",
-  "fotourl":"https://raw.githubusercontent.com/daytac/togumobilodev/main/dunyanin-en-uzun-10-kumsali.jpg"
+  "isim": "Samandağ Sahil",
+  "aciklama": "Dünyanın en uzun sahillerinden birisi.",
+  "fotourl": "https://raw.githubusercontent.com/daytac/togumobilodev/main/dunyanin-en-uzun-10-kumsali.jpg"
   } 
  ]}
